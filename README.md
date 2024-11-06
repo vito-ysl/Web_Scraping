@@ -13,7 +13,7 @@ Uma aplicação em Python que utiliza Web Scraping para acessar notícias no G1 
 
 ### Página Inicial
 
-![Página inicial da interface da aplicação](Photos/image2.png)
+![Página inicial da interface da aplicação](Photos/imageI.png)
 
 ### Resultados da Pesquisa
 
